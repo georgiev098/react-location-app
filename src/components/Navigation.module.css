@@ -1,0 +1,35 @@
+.nav {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  display: flex;                /* Add this */
+  justify-content: space-between; /* Space logo and links */
+  align-items: center;          /* Vertically center items */
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;                    /* Optional: add spacing between links */
+  background-color: transparent; /* Remove the background bar */
+  border-radius: 7px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav a:link,
+.nav a:visited {
+  background-color: var(--color-dark--0);
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.nav a:global(.active) {
+  background-color: var(--color-brand--2);
+  /* background-color: var(--color-dark--0); */
+}
