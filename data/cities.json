@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,115 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "3bf7",
+      "cityName": "Kibi",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "date": "2025-10-26T11:27:02.018Z",
+      "notes": "Lovely",
+      "position": {
+        "lat": "6.1625379615066205",
+        "lng": "-0.5499444414191502"
+      }
+    },
+    {
+      "id": "56dc",
+      "cityName": "Kibi",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "date": "2025-10-26T11:31:33.250Z",
+      "notes": "",
+      "position": {
+        "lat": "6.1649282677957515",
+        "lng": "-0.5497968202150094"
+      }
+    },
+    {
+      "id": "c0f4",
+      "cityName": "Murzuk",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2025-10-26T11:34:22.028Z",
+      "notes": "",
+      "position": {
+        "lat": "25.306858274297316",
+        "lng": "18.16162023594156"
+      }
+    },
+    {
+      "id": "9227",
+      "cityName": "Lafia",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2025-10-26T11:41:34.767Z",
+      "notes": "",
+      "position": {
+        "lat": "8.568842424331212",
+        "lng": "8.55285602573229"
+      }
+    },
+    {
+      "id": "3f68",
+      "cityName": "Lafia",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2025-10-26T11:41:55.960Z",
+      "notes": "",
+      "position": {
+        "lat": "8.611905014650945",
+        "lng": "8.556671738032737"
+      }
+    },
+    {
+      "id": "6311",
+      "cityName": "Lafia",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2025-10-26T11:41:55.960Z",
+      "notes": "",
+      "position": {
+        "lat": "8.568842424331212",
+        "lng": "8.55285602573229"
+      }
+    },
+    {
+      "id": "3bc0",
+      "cityName": "Reggane",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-10-26T11:42:13.515Z",
+      "notes": "",
+      "position": {
+        "lat": "25.94121498199863",
+        "lng": "0.3871657972455501"
+      }
+    },
+    {
+      "id": "58e0",
+      "cityName": "Township of Rock Creek",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-10-26T11:42:52.906Z",
+      "notes": "",
+      "position": {
+        "lat": "37.515461748938236",
+        "lng": "-96.86198175252403"
+      }
+    },
+    {
+      "id": "551d",
+      "cityName": "Momchilgrad",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2025-10-26T11:45:32.477Z",
+      "notes": "",
+      "position": {
+        "lat": "41.50318005126817",
+        "lng": "25.376992829867657"
+      }
     }
   ]
 }
